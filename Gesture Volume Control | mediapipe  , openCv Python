@@ -17,6 +17,7 @@ interface = devices.Activate(IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
 sound = cast(interface, POINTER(IAudioEndpointVolume))
 
 volMin, volMax = sound.GetVolumeRange()[:2]
+#ALsrkal
 
 while True:
     success, img = vd.read()

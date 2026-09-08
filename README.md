@@ -1,19 +1,19 @@
-# 💫 About Me
+#  About Me
 
-👋 Hi, I’m @ALSRKAL
+ Hi, I’m @ALSRKAL
 
 💻 **Full-Stack & Mobile Developer | Open Source Builder | Software & Cloud Enthusiast**
 
 ---
 
-- 🚀 I build **cross-platform mobile, web, and desktop applications** from idea to deployment.
-- 📱 Experienced with **Flutter & Dart** and building applications for Android and iOS.
-- 🌐 Build full-stack systems using **React, Python/Flask, PHP/Laravel, REST APIs, SQL, and PostgreSQL**.
-- ☁️ Work with cloud and backend platforms including **Firebase, Supabase, Appwrite, Cloudflare R2, and Cloudflare D1**.
-- 🛠️ Experienced with **Git, GitHub, GitHub Actions, CI/CD, Docker, Postman, Netlify, and cPanel**.
-- 🧩 Built projects across **SaaS, e-commerce, real estate, travel, healthcare, IoT, developer tools, and desktop software**.
-- 🔓 Interested in **open-source development, software architecture, privacy, security, and developer tooling**.
-- 🐧 I use **Linux** as my primary development environment and enjoy experimenting with systems and software.
+-  I build **cross-platform mobile, web, and desktop applications** from idea to deployment.
+-  Experienced with **Flutter & Dart** and building applications for Android and iOS.
+-  Build full-stack systems using **React, Python/Flask, PHP/Laravel, REST APIs, SQL, and PostgreSQL**.
+-  Work with cloud and backend platforms including **Firebase, Supabase, Appwrite, Cloudflare R2, and Cloudflare D1**.
+-  Experienced with **Git, GitHub, GitHub Actions, CI/CD, Docker, Postman, Netlify, and cPanel**.
+-  Built projects across **SaaS, e-commerce, real estate, travel, healthcare, IoT, developer tools, and desktop software**.
+-  Interested in **open-source development, software architecture, privacy, security, and developer tooling**.
+-  I use **Linux** as my primary development environment and enjoy experimenting with systems and software.
 
 
 ## 🌐 Socials:

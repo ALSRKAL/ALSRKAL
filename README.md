@@ -16,7 +16,7 @@ Most of what I ship is Arabic-first: interfaces that hold up in RTL, work offlin
 
 ---
 
-**Currently** — launching AddisStay · shipping Dhimmah to production · extending netRo.
+**Currently** — AddisStay live on iOS and Android · shipping Dhimmah to production · extending netRo.
 
 ---
 
@@ -64,14 +64,14 @@ Most of what I ship is Arabic-first: interfaces that hold up in RTL, work offlin
 
 | System | Problem solved | Architecture | Status |
 | :--- | :--- | :--- | :--- |
-| **AddisStay** | Property discovery, listing and booking for the Addis Ababa rental market | Flutter app · web dashboard · cloud backend · Codemagic release pipeline | [`PRODUCTION`](https://addisstay.com) |
+| **AddisStay** | Property discovery, listing and booking for the Addis Ababa rental market | Flutter app · web dashboard · cloud backend · Codemagic release pipeline | [`APP STORE`](https://apps.apple.com/app/id6784014518) · [`GOOGLE PLAY`](https://play.google.com/store/apps/details?id=com.addisstay.app) |
 | **SchoolResults** | High-volume academic grading, automated ranking, and bulk statement generation for schools | C# · .NET WPF · SQLite with automated `.bak` migrations · 64KB memory-buffered PDF engine · 191 unit tests | `PRODUCTION` |
 | **Dhimmah** · ذِمّة | Debt and credit tracking for Arabic speakers who will not hand their finances to a cloud account | Flutter · Drift/SQLite · Riverpod · RTL-native · offline-first · local auth | [`PRODUCTION`](https://github.com/ALSRKAL/Dhimmah) |
 | **MadarWA** | WhatsApp management and privacy control inside the browser, without a server in the loop | TypeScript · Chrome MV3 · WA-JS · Zustand · Vite · Vitest | [`v1.0`](https://github.com/ALSRKAL/MadarWA) |
 | **netRo** | One CLI for network diagnostics, monitoring and security auditing across platforms | Rust · TLS/service probing · single static binary · cross-platform | [`v5.0`](https://github.com/ALSRKAL/netRo) |
 | **Image_info** | Photos leaking GPS coordinates and device identity long before they are published | Python · Pillow · EXIF/GPS forensics · perceptual dedupe · HTML reporting | [`OPEN SOURCE`](https://github.com/ALSRKAL/Image_info) |
 
-> AddisStay, SchoolResults, and other client systems are delivered under private repositories. Architecture walkthroughs available on request.
+> AddisStay, SchoolResults, and other client systems ship under private repositories — the AddisStay app itself is live on iOS and Android. Architecture walkthroughs available on request.
 
 ---
 

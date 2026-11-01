@@ -2,7 +2,7 @@
 
 # Mohammed Aref Alsrkal
 
-**Full-Stack Software Engineer · Founder of Deep Point**
+**Full Stack Developer**
 
 </div>
 
@@ -12,11 +12,11 @@ I build and ship complete software products — cross-platform mobile apps, web 
 
 My work runs the full distance: data model, API design, state management, performance profiling, release pipelines, and the store submission at the end of it.
 
-I run **Deep Point**, a software engineering agency delivering custom web applications, cross-platform mobile apps, and scalable backend infrastructure for clients in real estate, fintech, retail, and logistics.
+Most of what I ship is Arabic-first: interfaces that hold up in RTL, work offline, and run on the hardware and networks the region actually has.
 
 ---
 
-**Currently** — shipping Dhimmah to production · extending netRo · taking on selected client engagements at Deep Point.
+**Currently** — launching AddisStay · shipping Dhimmah to production · extending netRo.
 
 ---
 
@@ -64,7 +64,7 @@ I run **Deep Point**, a software engineering agency delivering custom web applic
 
 | System | Problem solved | Architecture | Status |
 | :--- | :--- | :--- | :--- |
-| **AddisStay** | Property discovery, listing and booking for the Addis Ababa rental market | Flutter app · web dashboard · cloud backend · Codemagic release pipeline | `PRODUCTION` |
+| **AddisStay** | Property discovery, listing and booking for the Addis Ababa rental market | Flutter app · web dashboard · cloud backend · Codemagic release pipeline | [`PRODUCTION`](https://addisstay.com) |
 | **SchoolResults** | High-volume academic grading, automated ranking, and bulk statement generation for schools | C# · .NET WPF · SQLite with automated `.bak` migrations · 64KB memory-buffered PDF engine · 191 unit tests | `PRODUCTION` |
 | **Dhimmah** · ذِمّة | Debt and credit tracking for Arabic speakers who will not hand their finances to a cloud account | Flutter · Drift/SQLite · Riverpod · RTL-native · offline-first · local auth | [`PRODUCTION`](https://github.com/ALSRKAL/Dhimmah) |
 | **MadarWA** | WhatsApp management and privacy control inside the browser, without a server in the loop | TypeScript · Chrome MV3 · WA-JS · Zustand · Vite · Vitest | [`v1.0`](https://github.com/ALSRKAL/MadarWA) |
@@ -99,10 +99,10 @@ I run **Deep Point**, a software engineering agency delivering custom web applic
 
 ---
 
-## Work with me
+## Get in touch
 
-**Deep Point** builds production web platforms, cross-platform mobile apps, and backend infrastructure — scoped, architected, and shipped by the engineer who wrote the code.
+Open to senior engineering roles and product collaborations — mobile, web, or desktop.
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mohammedalsrkal@gmail.com)
 
-<sub>Open to senior engineering roles and selected product engagements.</sub>
+<sub>Arabic · English</sub>

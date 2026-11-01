@@ -79,12 +79,23 @@ I run **Deep Point**, a software engineering agency delivering custom web applic
 
 <div align="center">
 
-<img height="165" alt="GitHub statistics for ALSRKAL" src="https://github-readme-stats.vercel.app/api?username=ALSRKAL&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
-<img height="165" alt="Most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALSRKAL&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" />
-
 <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=ALSRKAL&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
+
+<!--
+  Stats and top-languages cards are intentionally disabled.
+
+  The shared public instance (github-readme-stats.vercel.app) returns HTTP 503
+  whenever it is rate limited by GitHub's image proxy, which renders on this
+  profile as a broken image. Verified failing on 2026-11-01.
+
+  Self-host the project with your own token, then uncomment and replace
+  YOUR-STATS-INSTANCE:
+
+  <img height="165" alt="GitHub statistics for ALSRKAL" src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=ALSRKAL&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
+  <img height="165" alt="Most used languages on GitHub" src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=ALSRKAL&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" />
+-->
 
 ---
 
